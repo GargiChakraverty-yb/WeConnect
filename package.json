@@ -1,0 +1,18 @@
+{
+  "name": "minor_project",
+  "version": "1.0.0",
+  "description": "Web based video calling application built using agile methodology with a collaborative whiteboard and notepad.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Gargi Chakraverty and Aanchal Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "peer": "^0.6.1",
+    "socket.io": "^4.1.2",
+    "uuid": "^8.3.2"
+  }
+}
